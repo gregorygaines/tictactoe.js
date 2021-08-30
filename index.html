@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Unbeatable Tic-Tac-Toe Game</title>
+    <meta property="og:url" content="https://gregorygaines.github.io/TicTacToe.js/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Tic-Tac-Toe.js by Gregory Gaiens">
+    <meta property="og:description"
+          content="A single player tic-tac-toe game with an unbeatable AI created by Gregory Gaines">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="author" content="Gregory Gaines">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#333333">
+    <meta name="msapplication-TileColor" content="#333333">
+    <meta name="theme-color" content="#ffffff">
+
+
+    <!-- Global stylesheets -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manjari:wght@100;400;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,700;1,400&display=swap"
+          rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body id="page-top">
+<header style="font-family: 'Manjari', sans-serif !important;">
+    <nav class="navbar navbar-expand-lg navbar-dark"
+         style="width: 100%; background-color: #121212; font-family: 'Roboto', sans-serif;">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
+                aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center " id="navbarTogglerDemo01">
+            <a class="navbar-brand" href="/"><img class="mr-2" src="img/favicon.svg" alt="tic tac toe logo"/>
+                Invincible TicTacToe</a>
+        </div>
+    </nav>
+</header>
+
+<div class="container d-flex h-100 justify-content-center" style="width: 100%; ">
+    <div class="row align-self-center">
+        <div class="col">
+            <div class="cn">
+                <div class="inner rounded shadow-lg " style="box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;">
+                    <div>
+                        <p class="text-center btn-secondary btn-lg btn-block" id="status"></p>
+                    </div>
+
+                    <div style="margin-bottom: 290px !important;">
+                        <div class="unselectable" style="float: left">
+                            <div class="box border" id="0">
+                                <p class="tlt">ffff</p>
+                            </div>
+                            <div class="box border" id="3">
+                                <p></p>
+                            </div>
+                            <div class="box border" id="6">
+                                <p></p>
+                            </div>
+                        </div>
+
+                        <div class="unselectable" style="float: left">
+                            <div class="box border" id="1">
+                                <p></p>
+                            </div>
+                            <div class="box border" id="4">
+                                <p></p>
+                            </div>
+                            <div class="box border" id="7">
+                                <p></p>
+                            </div>
+                        </div>
+
+                        <div class="unselectable" style="float: left">
+                            <div class="box border" id="2">
+                                <p></p>
+                            </div>
+                            <div class="box border" id="5">
+                                <p></p>
+                            </div>
+                            <div class="box border" id="8">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button id="resetButton" type="button" class="btn btn-danger btn-block">Reset</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="fixed-bottom hide-mobile" style="color: #FFF; font-family: 'Manjari', sans-serif !important;">
+    Created by <a href="https://gregorygaines.com"><u>Gregory Gaines</u></a>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+
+</html>

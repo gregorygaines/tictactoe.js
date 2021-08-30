@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g transform="translate(0 -1020.362)">
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+              fill="#FFFFFF" fill-rule="evenodd"
+              d="M9.8535156 1020.3613l0 32 1.0000004 0 0-32-1.0000004 0zM21.146484 1020.3613l0 32 1 0 0-32-1 0z"
+              color="#FFFFFF" font-family="sans-serif" font-weight="400" overflow="visible"/>
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+              fill="#FFFFFF" fill-rule="evenodd" d="M0 1030.2148l0 1 32 0 0-1-32 0zM0 1041.5098l0 1 32 0 0-1-32 0z"
+              color="#FFFFFF" font-family="sans-serif" font-weight="400" overflow="visible"/>
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+              fill="#007bff" fill-rule="evenodd"
+              d="m 7.2636719,1044.5664 -5.6464844,5.6465 0.7070313,0.707 5.6464843,-5.6465 -0.7070312,-0.707 z"
+              color="#FFFFFF" font-family="sans-serif" font-weight="400" overflow="visible"/>
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+              fill="#007bff" fill-rule="evenodd"
+              d="M2.3242188 1044.5664l-.7070313.707 5.6464844 5.6465.7070312-.707-5.6464843-5.6465zM18.470703 1033.1855l-5.648437 5.6465.707031.7071 5.648437-5.6465-.707031-.7071z"
+              color="#FFFFFF" font-family="sans-serif" font-weight="400" overflow="visible"/>
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+              fill="#007bff" fill-rule="evenodd"
+              d="m 13.529297,1033.1855 -0.707031,0.7071 5.648437,5.6465 0.707031,-0.7071 -5.648437,-5.6465 z"
+              color="#FFFFFF" font-family="sans-serif" font-weight="400" overflow="visible"/>
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+              fill="#dc3545"
+              d="M16 1043.9492c-2.089503 0-3.794911 1.7054-3.794922 3.7949.000011 2.0895 1.705419 3.793 3.794922 3.793 2.089503 0 3.794911-1.7035 3.794922-3.793-.000011-2.0895-1.705419-3.7949-3.794922-3.7949zm0 1c1.549065 0 2.794914 1.2459 2.794922 2.7949-.000008 1.5491-1.245857 2.793-2.794922 2.793-1.549065 0-2.794914-1.2439-2.794922-2.793.000008-1.549 1.245857-2.7949 2.794922-2.7949zM27.388672 1032.5684c-2.089503 0-3.794911 1.7034-3.794922 3.7929.000011 2.0895 1.705419 3.795 3.794922 3.7949 2.089503 0 3.792957-1.7054 3.792969-3.7949-.000012-2.0895-1.703466-3.7929-3.792969-3.7929zm0 1c1.549065 0 2.79296 1.2439 2.792969 2.7929-.000009 1.5491-1.243904 2.7949-2.792969 2.7949-1.549065.0001-2.794914-1.2458-2.794922-2.7949.000008-1.549 1.245857-2.7929 2.794922-2.7929z"
+              color="#FFFFFF" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    </g>
+</svg>
