@@ -135,3 +135,8 @@ footer a {
         display: block;
     }
 }
+
+.font-game {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px !important;
+}
